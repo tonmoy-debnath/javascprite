@@ -1,1 +1,3 @@
-abc
+function name(){
+    return "OK";
+}
